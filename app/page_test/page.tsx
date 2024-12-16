@@ -2,8 +2,8 @@ export default function Home() {
   return (
     <div className="bg-gray-400 grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <h1 className="text-4xl font-bold">Hello, world!</h1>
-        <p className="text-xl">This is a Next.js app.</p>
+        <h1 className="text-4xl font-bold">Hello, world 2!</h1>
+        <p className="text-xl">This is a test page_test</p>
       </main>
     </div>
   );
